@@ -18,8 +18,4 @@
     <ProjectReference Include="..\CleanArchitecherWithCQRSANDMEDIATR.Infrastructure\CleanArchitecherWithCQRSANDMEDIATR.Infrastructure.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Products\Commands\" />
-  </ItemGroup>
-
 </Project>

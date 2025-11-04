@@ -1,8 +1,8 @@
 ﻿using CleanArchitecherWithCQRSANDMEDIATR.Domain.Eintity;
 using CleanArchitecherWithCQRSANDMEDIATR.Infrastructure.Data;
 using MediatR;
-using Microsoft.EntityFrameworkCore;
 using System;
+using Microsoft.EntityFrameworkCore;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
